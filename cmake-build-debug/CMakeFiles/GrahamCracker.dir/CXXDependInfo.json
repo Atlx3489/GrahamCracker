@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/Alex/CLionProjects/GrahamCracker/cmake-build-debug",
+	"dir-cur-src" : "/home/Alex/CLionProjects/GrahamCracker",
+	"dir-top-bld" : "/home/Alex/CLionProjects/GrahamCracker/cmake-build-debug",
+	"dir-top-src" : "/home/Alex/CLionProjects/GrahamCracker",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/usr/include/SDL2"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/Alex/CLionProjects/GrahamCracker/cmake-build-debug/CMakeFiles/GrahamCracker.dir"
+}
