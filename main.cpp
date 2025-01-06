@@ -74,7 +74,6 @@ int main() {
                         break;
                         case SDLK_ESCAPE:
                             isRunning = false;
-                            return 0;
                         break;
                     }
                 break;
