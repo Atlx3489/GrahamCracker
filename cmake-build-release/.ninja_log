@@ -1,6 +1,0 @@
-# ninja log v6
-1	132	1734484020019917077	CMakeFiles/GrahamCracker.dir/main.cpp.o.ddi	c68466c00186f28c
-132	134	1734484020149917072	CMakeFiles/GrahamCracker.dir/CXX.dd	2c3239f3b496339e
-132	134	1734484020149917072	/home/Alex/CLionProjects/GrahamCracker/cmake-build-release/CMakeFiles/GrahamCracker.dir/CXXModules.json	2c3239f3b496339e
-132	134	1734484020149917072	CMakeFiles/GrahamCracker.dir/main.cpp.o.modmap	2c3239f3b496339e
-134	954	1734484020149917072	CMakeFiles/GrahamCracker.dir/main.cpp.o	5196fdef99bc60c3
