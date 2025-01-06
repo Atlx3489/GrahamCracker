@@ -1,3 +1,0 @@
-/home/Alex/CLionProjects/GrahamCracker/cmake-build-debug/CMakeFiles/GrahamCracker.dir
-/home/Alex/CLionProjects/GrahamCracker/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/Alex/CLionProjects/GrahamCracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
